@@ -16,6 +16,13 @@
 
                     You are logged in!
                 </div>
+
+                <div class="panel-body">
+                    <a href="/panel">Panel</a>
+                    <br>
+                    <a href="/app">App</a>
+                </div>
+
             </div>
         </div>
     </div>
